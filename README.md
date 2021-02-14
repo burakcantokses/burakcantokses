@@ -1,7 +1,6 @@
 ### about me
 I'm Burak. I’m currently working java, c#, pawn and kotlin. I also usually develop authentication system, real-time protection for private/public use.
 
-###social media;
 Linkedin: @burakcan-tokses
 
 <!--
