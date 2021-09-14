@@ -1,5 +1,5 @@
 ### about me
-I'm Burak. I’m currently working java, c#, pawn, php and ui design. I also usually develop authentication system, real-time protection for private/public use.
+I'm Burak. I’m currently working java, c#, pawn, python and ui design. I also usually develop authentication system, real-time protection for private/public use, image processing.
 
 Linkedin: @burakcan-tokses
 
