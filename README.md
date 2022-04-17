@@ -1,7 +1,8 @@
-### about me
-I'm Burak. I’m currently working java, c#, pawn, python and ui design. I also usually develop authentication system, real-time protection for private/public use, image processing.
+<h1 align="center">Hi 👋, I'm Burak</h1>
+<h3 align="center">Creating modern and responsive applications, real-time protections and authentication systems. from Turkey</h3>
 
-Linkedin: @burakcan-tokses
+- 🔭 I’m currently working on **Database Integration (Java-C#)**
 
-<!--
-**burakcantokses/burakcantokses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **Python**
+
+- 📫 How to contact me **burakcantokses5@gmail.com**
