@@ -15,7 +15,7 @@
 
 - 👨🏽‍💻 I’m currently learning as a Mechine Learning.
 - ⚙️ I'm also actively practicing my coding skills on LeetCode! You can check out my solutions and progress on [LeetCode](https://leetcode.com/burakcantokses/).
-- 🤔 My interests are developing some useful and wonderful things, designing and Valorant.
+- 🤔 My interests are developing some useful and wonderful things, ui designing and Valorant.
 - 💼 I'm working on Logo Yazılım.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [burakcantokses5@gmail.com](mailto:burakcantokses5@gmail.com).
