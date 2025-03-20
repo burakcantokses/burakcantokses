@@ -16,7 +16,7 @@
 - 👨🏽‍💻 I’m currently learning as a React.
 - ⚙️ I'm also actively practicing my coding skills on LeetCode! You can check out my solutions and progress on [LeetCode](https://leetcode.com/burakcantokses/).
 - 🤔 My interests are developing some useful and wonderful things, ui designing and Valorant.
-- 💼 I'm working on Logo Yazılım.
+- 💼 I'm working on Kodit Teknoloji Yazılım ve Danışmanlık Ltd. Şti.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [burakcantokses5@gmail.com](mailto:burakcantokses5@gmail.com).
 
